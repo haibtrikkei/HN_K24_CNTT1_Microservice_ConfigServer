@@ -3,7 +3,7 @@ spring:
         name: payment-service
     datasource:
         driver-class-name: com.mysql.cj.jdbc.Driver
-        url: jdbc:mysql://localhost:3311/payment_db
+        url: jdbc:mysql://localhost:3312/payment_db
         username: root
         password: 1234$
     jpa:

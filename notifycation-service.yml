@@ -3,7 +3,7 @@ spring:
         name: notifycation-service
     datasource:
         driver-class-name: com.mysql.cj.jdbc.Driver
-        url: jdbc:mysql://localhost:3311/notifycation_db
+        url: jdbc:mysql://localhost:3313/notifycation_db
         username: root
         password: 1234$
     jpa:
